@@ -17,8 +17,8 @@
                 SemanticProperties.Description="dot net bot in a race car number eight" />
 
             <Label
-                Text="{Binding Headline}"
-                Style="{StaticResource Headline}"
+                Text="{Binding Headliner}"
+                Style="{StaticResource Headliner}"
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
