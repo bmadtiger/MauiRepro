@@ -54,12 +54,12 @@
                 Clicked="Button_Clicked" />
 
             <Button
-                Text="Light"
+                Text="{Static app:MainPage.LIGHT_THEME_NAME}"
                 WidthRequest="100"
                 Clicked="Button_Clicked" />
 
             <Button
-                Text="Dark"
+                Text="{Static app:MainPage.DARK_THEME_NAME}"
                 WidthRequest="100"
                 Clicked="Button_Clicked" />
         </HorizontalStackLayout>
